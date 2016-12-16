@@ -1,5 +1,0 @@
-slots/slot_chaotic/M1.png
-slots/slot_chaotic/M2.png
-slots/slot_chaotic/M3.png
-slots/slot_chaotic/M4.png
-slots/slot_chaotic/M5.png
