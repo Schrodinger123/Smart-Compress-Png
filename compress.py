@@ -93,4 +93,4 @@ for rt,dirs,files in os.walk(resPath):
 				fileHandler.write(str(filePath[len(resPath)+1:])+'\n')
 				fileHandler.close()
 
-print "total compressed: "formatSize(compressedAllSize)
+print "total compressed: "+formatSize(compressedAllSize)
