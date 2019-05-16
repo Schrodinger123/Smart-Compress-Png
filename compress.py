@@ -11,7 +11,7 @@ thisFilePath = sys.path[0]
 resPath = "Your res Path Here!"
 
 #keep original path
-keepOrgPath = thisFilePath+"/keepOrg.txt"
+keepOrgPath = thisFilePath+"/keepOrg.txt" 
 
 #already compressed path (auto)
 compressedFile = thisFilePath+"/compressedFile.txt"
